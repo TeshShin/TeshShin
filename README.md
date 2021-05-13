@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontcolor=white&height=300&section=header&text=DongminShin&animation=twinkling&fontSize=90&fontAlignY=40"/>
 
 
-<h align="center">⚔️Tech Stack⚔️</h>
+<h3 align="center">⚔️Tech Stack⚔️</h3>
 
 <p align="center">Tech that I've used at least once</p>
 
