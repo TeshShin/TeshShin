@@ -8,7 +8,7 @@
 
 <p align="center"><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshintom1222&count_bg=%2365DDDF&title_bg=%235E95ED&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/></a></p>
 
-### :purple_heart: Career
+<center> ### :purple_heart: Career </center>
 | **Type**      | **Date**          | **Contents**                                                 | **Organization**        |
 |---------------|-------------------|--------------------------------------------------------------|-------------------------|
 | **Education** | 2019. 3 ~ present | Department of Software Convergence<br>Track of Game Contents | **KyungHee University** |
