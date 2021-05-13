@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontcolor=white&height=300&section=header&text=DongminShin&fontSize=90"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontcolor=white&height=300&section=header&text=DongminShin&animation=twinkling&fontSize=90&fontAlignY=20"/>
 
 
 <h3 align="center">⚔️Tech Stack⚔️</h3>
