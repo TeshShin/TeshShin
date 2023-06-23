@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C%2B%2B&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-239120?style=flat-square&logo=C#&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=Unity&logoColor=white"/>
   <img src="https://img.shields.io/badge/Unreal Engine 4-313131?style=flat-square&logo=UnrealEngine&logoColor=white"/>
 </p>
@@ -25,7 +25,7 @@
 | **Education** | 2019. 3 ~ present | Department of Software Convergence<br>Track of Game Contents | **KyungHee University** |
 
 - 👋 Hi, I’m @shintom1222
-- 👀 I’m interested in Web, C, C#, C++, Unity, Unreal Engine.
+- 👀 I’m interested in C#, C++, Unity, Unreal Engine.
 - 🌱 I’m currently learning overall understanding of C++ and computer graphics using opengl
 - 💞️ I’m looking to collaborate on making some game.
 - 📫 How to reach me? Send e-mail to shintom1222@gmail.com
