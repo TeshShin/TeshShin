@@ -26,7 +26,7 @@
 
 - 👋 Hi, I’m @shintom1222
 - 👀 I’m interested in C#, C++, Unity, Unreal Engine.
-- 🌱 I’m currently learning overall understanding of C++ and computer graphics using opengl
+- 🌱 I’m currently learning overall understanding of C++ & computer graphics & UE5 & Unity
 - 💞️ I’m looking to collaborate on making some game.
 - 📫 How to reach me? Send e-mail to shintom1222@gmail.com
 
