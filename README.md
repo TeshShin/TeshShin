@@ -40,6 +40,11 @@
 - 💞️ I’m looking to collaborate on making some game.
 - 📫 How to reach me? Send e-mail to shintom1222@gmail.com
 
+***
+
+<a href="https://github.com/TeshShin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=TeshShin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="SOKURI's github stats" /></a>
+<a href="https://github.com/TeshShin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeshShin&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=fff&text_color=fff" /></a> 
+
 <!---
 shintom1222/shintom1222 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
