@@ -1,4 +1,7 @@
+### 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontcolor=white&height=300&section=header&text=DongminShin&animation=twinkling&fontSize=90&fontAlignY=40"/>
+
+***
 
 <h3 align="center">
   ⚔️Tech Stack⚔️
@@ -13,6 +16,8 @@
   <img src="https://img.shields.io/badge/Unreal Engine 5-313131?style=flat-square&logo=UnrealEngine&logoColor=white"/>
 </p>
 
+***
+
 <p align="center">
   <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshintom1222&count_bg=%2365DDDF&title_bg=%235E95ED&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
   </a>
@@ -23,6 +28,8 @@
 | **Type**      | **Date**          | **Contents**                                                 | **Organization**        |
 |---------------|-------------------|--------------------------------------------------------------|-------------------------|
 | **Education** | 2019. 3 ~ present | Department of Software Convergence<br>Track of Game Contents | **KyungHee University** |
+
+***
 
 - 👋 Hi, I’m @shintom1222
 - 👀 I’m interested in C#, C++, Unity, Unreal Engine.
