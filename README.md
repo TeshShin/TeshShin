@@ -34,7 +34,7 @@
 
 ***
 
-- 👋 Hi, I’m @shintom1222
+- 👋 Hi, I’m @TeshShin
 - 👀 I’m interested in C#, C++, Unity, Unreal Engine.
 - 🌱 I’m currently learning overall understanding of C++ & computer graphics & UE5 & Unity
 - 💞️ I’m looking to collaborate on making some game.
