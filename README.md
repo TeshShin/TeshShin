@@ -24,7 +24,7 @@
   </a>
 </p>
 <p align="center">
-  <a href="https://github.com/TeshShin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=TeshShin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ED3538,ED7E7F,86A8E7,91eae4&title_color=4159CC&text_color=AEB3FF" alt="TeshShin's github stats" /></a>
+  <a href="https://github.com/TeshShin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=TeshShin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=ED3538,ED7E7F,BBE2ED,91eae4&title_color=4159CC&text_color=AEB3FF" alt="TeshShin's github stats" /></a>
   <a href="https://github.com/TeshShin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeshShin&layout=compact&hide_border=true&bg_color=30,91eae4,86A8E7&title_color=4159CC&text_color=4159CC" /></a> 
 </p>
 
