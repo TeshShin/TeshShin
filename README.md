@@ -1,5 +1,6 @@
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontcolor=white&height=300&section=header&text=DongminShin&animation=twinkling&fontSize=90&fontAlignY=40"/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontcolor=white&height=300&section=header&text=DongminShin&animation=twinkling&fontSize=90&fontAlignY=40"/>
+</p>
 
 ***
 
@@ -17,18 +18,24 @@
 </p>
 
 ***
-
-<p align="center">
-  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshintom1222&count_bg=%2365DDDF&title_bg=%235E95ED&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
-  </a>
-</p>
+### Github stats
 <p align="center">
   <a href="https://github.com/TeshShin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=TeshShin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="TeshShin's github stats" /></a>
   <a href="https://github.com/TeshShin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeshShin&layout=compact&hide_border=true&bg_color=30,68CCD4,86A8E7&title_color=fff&text_color=fff" /></a> 
 </p>
 <p align="center">
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=shintom)](https://solved.ac/shintom)
+  <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fshintom1222&count_bg=%2365DDDF&title_bg=%235E95ED&icon=github.svg&icon_color=%23E7E7E7&title=hits&edge_flat=false"/>
+  </a>
 </p>
+
+***
+### BOJ
+
+<p align="center">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shintom"/>
+  <img src="https://mazandi.herokuapp.com/api?handle=shintom&theme=warm"/>
+</p>
+
 ***
 
 ### :purple_heart: Career
