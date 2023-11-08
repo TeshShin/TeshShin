@@ -40,9 +40,10 @@
 
 ### :purple_heart: Career
 
-| **Type**      | **Date**          | **Contents**                                                 | **Organization**        |
+| **종류**      | **날짜**          | **소속**                                                     | **조직**                |
 |---------------|-------------------|--------------------------------------------------------------|-------------------------|
-| **Education** | 2019. 3 ~ present | Department of Software Convergence<br>Track of Game Contents | **KyungHee University** |
+| **교육**      | 2019. 3 ~ present | Department of Software Convergence<br>Track of Game Contents | **KyungHee University** |
+| **군대**      | 2020. 9.14 ~ 2022. 3.13| 제 3 수송 교육 연대 1중대 1소대                           | **육군**                |
 
 ***
 
