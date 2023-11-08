@@ -26,7 +26,9 @@
   <a href="https://github.com/TeshShin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api?username=TeshShin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="TeshShin's github stats" /></a>
   <a href="https://github.com/TeshShin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeshShin&layout=compact&hide_border=true&bg_color=30,68CCD4,86A8E7&title_color=fff&text_color=fff" /></a> 
 </p>
-[![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=shintom)](https://solved.ac/shintom)
+<p align="center">
+  ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=shintom)](https://solved.ac/shintom)
+</p>
 ***
 
 ### :purple_heart: Career
