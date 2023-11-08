@@ -27,7 +27,7 @@
   <a href="https://github.com/TeshShin"><img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeshShin&layout=compact&hide_border=true&bg_color=30,68CCD4,86A8E7&title_color=fff&text_color=fff" /></a> 
 </p>
 <p align="center">
-  ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=shintom)](https://solved.ac/profile/shintom)
+  ![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=shintom)](https://solved.ac/shintom)
 </p>
 ***
 
