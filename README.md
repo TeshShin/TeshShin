@@ -1,6 +1,6 @@
 ### 항상 열심히 차근차근 채워나가자
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontcolor=white&height=300&section=header&text=DongminShin&animation=twinkling&fontSize=90&fontAlignY=40"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontcolor=white&height=300&section=header&text=ShinDongmin&animation=twinkling&fontSize=90&fontAlignY=40"/>
 </p>
 
 ***
