@@ -1,7 +1,9 @@
+***
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&fontcolor=white&height=300&section=header&text=DongminShin&animation=twinkling&fontSize=90&fontAlignY=40"/>
 </p>
-
+***
+### 차근차근 채워나가자
 ***
 
 <h3 align="center">
