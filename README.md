@@ -18,17 +18,6 @@
 </p>
 
 ***
-### Github stats
-<p align="center">
-  <a href="https://github.com/TeshShin">
-    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/?username=TeshShin&show_icons=true&include_all_commits=true&hide_border=true&bg_color=30,7F7FD5,86A8E7,91eae4&title_color=fff&text_color=fff" alt="TeshShin's github stats"/>
-  </a>
-  <a href="https://github.com/TeshShin">
-    <img align="center" style="height:180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TeshShin&layout=compact&hide_border=true&bg_color=30,68CCD4,86A8E7&title_color=fff&text_color=fff"/>
-  </a> 
-</p>
-
-***
 ### BOJ
 
 <p align="center">
@@ -43,8 +32,8 @@
 | **종류**      | **날짜**          | **소속**                                                     | **조직**                |
 |---------------|-------------------|--------------------------------------------------------------|-------------------------|
 | **교육**      | 2019. 3 ~ 2025. 2 | Department of Software Convergence<br>Track of Game Contents | **KyungHee University** |
-| **군대**      | 2020. 9.14 ~ 2022. 3.13| 제 3수송교육연대 1중대 1소대 운전조교 병장 만기전역                         | **육군**                |
-| **교육**      | 2025.09 ~ present | Krafton Jungle Game Tech Lab | **Krafton** |
+| **군대**      | 2020. 9.14 ~ 2022. 3.13 | 제 3수송교육연대 1중대 1소대 운전조교 병장 만기전역                         | **육군**                |
+| **교육**      | 2025.09 ~ 2026.02 | Krafton Jungle Game Tech Lab 2nd Cohort | **Krafton** |
 ***
 
 - 👋 Hi, I’m @TeshShin
