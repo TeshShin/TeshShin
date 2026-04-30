@@ -22,7 +22,6 @@
 
 <p align="center">
   <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=shintom"/>
-  <img src="https://mazandi.herokuapp.com/api?handle=shintom&theme=warm"/>
 </p>
 
 ***
